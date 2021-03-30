@@ -1,11 +1,6 @@
-### Hi there 👋
+### HHola, Hello, Mabuhay, Hallo! 👋
 
-<!--
-**CaliFlowers/Califlowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... improving my Plotly skills, Image recognition with Pytorch
+ I’m currently working on ... improving my Plotly skills, Image recognition with Pytorch
 - 🌱 I’m currently learning ... NLP, Machine Learning, Flask
 - 👯 I’m looking to collaborate on ... NLP, or other data visualization work
 - 🤔 I’m looking for help with ... Flask, 
@@ -17,4 +12,10 @@ Here are some ideas to get you started:
 I speak fluent English, and Tagalog; Espanol de buena calidad, ein bisschen Deutsch 
 
 I love trivia, musicals, and all just being free-spirited in general. I like to learn new things. I'm nt the quickest at picking up new things; but I'm willing to persevere until I master something. 
+
+<!--
+**CaliFlowers/Califlowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+- 🔭
 --> 
