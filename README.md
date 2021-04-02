@@ -15,6 +15,8 @@ I love trivia, musicals, and just being free-spirited in general. I like to lear
 
 To learn more about me, you can check out my personal page [HERE](https://www.google.com/search?q=califl&rlz=1C1AVFC_enUS832US845&oq=califl&aqs=chrome..69i57j46i10i433j69i60l6.5941j0j7&sourceid=chrome&ie=UTF-8)
 
+My public Tableau profile is also [available](https://public.tableau.com/profile/alexei.flores#!/)
+
 <!--
 **CaliFlowers/Califlowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
