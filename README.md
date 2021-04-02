@@ -11,7 +11,7 @@
 
 I speak fluent English, and Tagalog; Espanol de buena calidad, ein bisschen Deutsch 
 
-I love trivia, musicals, and all just being free-spirited in general. I like to learn new things. I'm not the quickest at picking up new things; but I'm willing to persevere until I master something. 
+I love trivia, musicals, and just being free-spirited in general. I like to learn new things. I'm not the quickest at picking up new things; but I'm willing to persevere until I master something. I dn't just pursue education to get a better salary or job; I study new things because I genuinely believe in pursuing enlightenment about the universe. 
 
 <!--
 **CaliFlowers/Califlowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
