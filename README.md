@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... NLP, Machine Learning, Flask
 - 👯 I’m looking to collaborate on ... NLP, or other data visualization work
 - 🤔 I’m looking for help with ... Flask, 
-- 💬 Ask me about ...Statistics, History, or sychology
+- 💬 Ask me about ...Statistics, History, or Psychology
 - 📫 How to reach me: ... E-mail is fine. I'm also active on Twitter, Facebook, and Instagram
 - 😄 Pronouns: ... He/ Him. 
 - ⚡ Fun fact: ... You only need to trigger me to get me to break into song
