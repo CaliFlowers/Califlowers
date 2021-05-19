@@ -6,7 +6,8 @@
 - 🤔 I’m looking for help with ... Flask, 
 - 💬 Ask me about ...Statistics, History, or Psychology
 - 📫 How to reach me: ... E-mail is fine. I'm also active on Twitter, Facebook, and Instagram
-- 😄 Pronouns: ... He/ Him. 
+- 😄 Pronouns: ... He/ Him/ His
+- Things I will NEVER let go: improper use of subject vs object pronouns, dangling modifiers
 - ⚡ Fun fact: ... You only need to trigger me to get me to break into song
 
 I speak fluent English, and Tagalog, Espanol de buena calidad, ein bisschen Deutsch, etcetera 
